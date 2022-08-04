@@ -1,0 +1,40 @@
+[{
+"name": "Body Pump",
+"emoji": "🤸‍♀️",
+"description": "El body pump es un programa de entrenamiento físico que combina las actividades propias del aeróbic con trabajo muscular mediante la realización de ejercicios de levantamiento de pesas."
+},
+{
+    "name": "Body Combat",
+    "emoji": "🤼",
+    "description": "El body combat es un programa de ejercicios cardiovasculares que se realiza en grupo y consiste en realizar movimientos de diferentes artes marciales como el taekwondo, karate, capoeira, muay thay (boxeo tailandés), tai chi o boxeo. "
+},
+{
+    "name": "Spinning",
+    "emoji": "🚴",
+    "description": "Es un ejercicio aeróbico y cardiovascular que se realiza sobre una bicicleta estática en el que se trabaja el tren inferior: las piernas y los glúteos. Su finalidad principal es perder peso y la tonificación de los músculos, además de mejorar la fuerza y la resistencia."
+},
+{
+    "name": "Zumba",
+    "emoji": "🎼",
+    "description": "Zumba es una disciplina deportiva que se imparte en clases dirigidas en la que se realizan ejercicios aeróbicos al ritmo de música latina (merengue, samba, reggaeton, cumbia y salsa) con la finalidad de perder peso de forma divertida y mejorar el estado de ánimo de los deportistas."
+},
+{
+    "name": "Boxing",
+    "emoji": "🥊",
+    "description": "El Fitness Boxing es un entrenamiento de ejercicios amenos de gran intensidad física que a través de varias coreografías que pueden incluir algún ritmo musical de fondo, replican técnicas básicas del Boxeo, lo que puede incluir golpes en la bolsa para golpear: saco de boxeo, pera loca o speed ball."
+},
+{
+    "name": "Fit ball",
+    "emoji": "⛹️",
+    "description": "Los ejercicios se hacen con la ayuda de una pelota o esfera de goma de grandes dimensiones, cuya superficie y dureza hace que se adapte a las diferentes características de las personas que las usan, y van dirigidos a mover y reforzar todas las partes del cuerpo, mejorando el equilibrio, la fuerza y la coordinación."
+},
+{
+    "name": "Bungee Fitness",
+    "emoji": "🎽",
+    "description": "Deporte inspirado en técnicas circenses, en las que los participantes se cuelgan a través de un arnés en una cuerda elástica y se realizan ejercicios de forma intensiva, favoreciendo quemar calorías mientras te diviertes retando la resistencia del Bungee."
+},
+{
+    "name": "TRX",
+    "emoji": "🥋",
+    "description": "El TRX es una modalidad deportiva que consiste en realizar ejercicios en suspensión: con la ayuda de unas cintas especiales, suspendemos en el aire parte del peso de nuestro cuerpo de manera que los músculos que han de realizar el movimiento tienen en este peso una resistencia para una tonificación efectiva."
+}]
